@@ -31,5 +31,7 @@ There was two problems which participants solve
 
 ## Result
 
-* [KIN](statics/kin_result.png)
-* [MOVIE](statics/movie_result.png)
+becxer team
+
+* [KIN](statics/result_kin_final.png) - 11
+* [MOVIE](statics/result_movie_final.png) - 15

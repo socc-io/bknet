@@ -94,3 +94,4 @@ ENV/
 
 movie_save
 kin_save
+.DS_Store

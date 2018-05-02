@@ -7,7 +7,7 @@
 
 ## This repository contains
 
-This repository contains python source code using tensorflow, written for AI-hackathon hold on NAVER
+This repository contains python source code using tensorflow, written for [AI-hackathon](tutorial/tutorial.md) hold on NAVER
 
 ## Detail of contents
 
@@ -15,9 +15,9 @@ This repository contains python source code using tensorflow, written for AI-hac
 
 There was two problems which participants solve
 
-#### KIN - Comparing similarity between two sentences
+#### [KIN - Comparing similarity between two sentences](tutorial/kin.md)
 
-#### MOVIE - Predicting rating of review sentence
+#### [MOVIE - Predicting rating of review sentence](tutorial/movie.md)
 
 ### File structure
 

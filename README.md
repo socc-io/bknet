@@ -2,7 +2,7 @@
 
 #### Authors
 
-* Baek Seohyeon (becxer)
+* Back Seohyun (becxer)
 * Kim Youngjin (smilu97)
 
 ## This repository contains
